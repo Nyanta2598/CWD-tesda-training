@@ -1,0 +1,49 @@
+[33mcommit 5b46dc25fc21c18ed526238d739d5cb52f68815c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: JoeSteve <pjesteves15@gmail.com>
+Date:   Wed Dec 7 21:44:23 2022 +0800
+
+    sample-git-commit
+
+[33mcommit 1c8446af7597768e1a82f9a45dea22d6e7a11a3f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 02939a7 7ea947a
+Author: Prince Joseph Esteves <74764886+Nyanta2598@users.noreply.github.com>
+Date:   Wed Dec 7 09:46:59 2022 +0800
+
+    Merge branch 'main' of https://github.com/Nyanta2598/CWD-tesda-training
+
+[33mcommit 02939a72d2cf9a082de2122fdb553d8afe45edc2[m
+Author: Prince Joseph Esteves <74764886+Nyanta2598@users.noreply.github.com>
+Date:   Wed Dec 7 09:46:55 2022 +0800
+
+    day 8 tesda training
+
+[33mcommit 7ea947ad7d0f1784401620c970389d75ce3143f5[m
+Merge: 051e709 073e735
+Author: JoeSteve <pjesteves15@gmail.com>
+Date:   Tue Dec 6 18:05:29 2022 +0800
+
+    Merge branch 'main' of https://github.com/Nyanta2598/tesda-training
+
+[33mcommit 051e709841f44b8ccd0b1582920a079d25f7c65b[m
+Author: JoeSteve <pjesteves15@gmail.com>
+Date:   Tue Dec 6 18:05:18 2022 +0800
+
+    6th day
+
+[33mcommit 073e7357da0412fd4d43a961bab00f2413d08fed[m
+Author: Prince Joseph Esteves <74764886+Nyanta2598@users.noreply.github.com>
+Date:   Mon Dec 5 10:01:04 2022 +0800
+
+    5th day
+
+[33mcommit 094667097706e5eb8c1caa9368458029be4e6ead[m
+Author: JoeSteve <pjesteves15@gmail.com>
+Date:   Fri Dec 2 08:40:47 2022 +0800
+
+    5th day
+
+[33mcommit 6b9c4cc43aa10130ed2cab58f45aae19d0e4525b[m
+Author: JoeSteve <pjesteves15@gmail.com>
+Date:   Thu Dec 1 10:02:56 2022 +0800
+
+    Initial commit
