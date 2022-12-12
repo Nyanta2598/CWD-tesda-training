@@ -1,0 +1,7 @@
+.collection {
+    border: 2px solid blueviolet;
+    border-radius: 25px;
+    overflow: hidden;
+    position: relative;
+    margin: 0.5rem 0 1rem 0;
+}
