@@ -11,13 +11,54 @@
      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
 </head>
 <body>
+    <br>
+    <br>
     <div class="container">
+        <div class="row">
+            <div class="col s6"><img src="https://source.unsplash.com/user/c_v_r/500x500"  class="materialboxed"></div>
+            <div class="col s6"><img src="https://source.unsplash.com/user/c_v_r/500x500"  class="materialboxed"></div>
+        </div>
+    </div>
+    <br>
+    <div class="container slider">
+        <ul class="slides">
+          <li>
+            <img src="https://source.unsplash.com/user/c_v_r/2048x1024"> <!-- random image -->
+            <div class="caption center-align">
+              <h3>This is our big Tagline!</h3>
+              <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+            </div>
+          </li>
+          <li>
+            <img src="https://source.unsplash.com/user/c_v_r/2048x1024"> <!-- random image -->
+            <div class="caption left-align">
+              <h3>Left Aligned Caption</h3>
+              <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+            </div>
+          </li>
+          <li>
+            <img src="https://source.unsplash.com/user/c_v_r/2048x1024"> <!-- random image -->
+            <div class="caption right-align">
+              <h3>Right Aligned Caption</h3>
+              <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+            </div>
+          </li>
+          <li>
+            <img src="https://source.unsplash.com/user/c_v_r/2048x1024"> <!-- random image -->
+            <div class="caption center-align">
+              <h3>This is our big Tagline!</h3>
+              <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+            </div>
+          </li>
+        </ul>
+      </div>    
+    <div class="container ">
         <div class="carousel">
-            <a class="carousel-item" href="#one!"><img src="https://source.unsplash.com/user/c_v_r/50x20" class="materialboxed"></a>
-            <a class="carousel-item" href="#two!"><img src="https://source.unsplash.com/user/c_v_r/50x20" class="materialboxed"></a>
-            <a class="carousel-item" href="#three!"><img src="https://source.unsplash.com/user/c_v_r/50x20" class="materialboxed"></a>
-            <a class="carousel-item" href="#four!"><img src="https://source.unsplash.com/user/c_v_r/50x20" class="materialboxed"></a>
-            <a class="carousel-item" href="#five!"><img src="https://source.unsplash.com/user/c_v_r/50x20" class="materialboxed"></a>
+            <a class="carousel-item" href="#one!"><img src="https://source.unsplash.com/user/c_v_r/500x500" class=""></a>
+            <a class="carousel-item" href="#two!"><img src="https://source.unsplash.com/user/c_v_r/500x500" class=""></a>
+            <a class="carousel-item" href="#three!"><img src="https://source.unsplash.com/user/c_v_r/500x500" class=""></a>
+            <a class="carousel-item" href="#four!"><img src="https://source.unsplash.com/user/c_v_r/500x500" class=""></a>
+            <a class="carousel-item" href="#five!"><img src="https://source.unsplash.com/user/c_v_r/500x500" class=""></a>
         </div>
     </div>
           
@@ -30,6 +71,7 @@
         $(document).ready(function(){
             $('.carousel').carousel();
             $('.materialboxed').materialbox();
+            $('.slider').slider();
         });
     </script>
 </body>
